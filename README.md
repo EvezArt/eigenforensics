@@ -62,6 +62,14 @@ The gatekeeper is the minimum cut of an information graph — the node through w
 ## Installation
 
 ```bash
+# from the signed release — works now, no account or token required
+pip install https://github.com/EvezArt/eigenforensics/releases/download/v0.1.0/eigenforensics-0.1.0-py3-none-any.whl
+
+# or from source
+pip install git+https://github.com/EvezArt/eigenforensics.git
+```
+
+```bash
 pip install eigenforensics
 ```
 
